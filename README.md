@@ -28,29 +28,9 @@ Armazenamento temporário das informações do usuário;
 Redirecionamento para o catálogo após o login.
 🛍️ Catálogo de produtos
 
-A tela principal apresenta os produtos separados em duas categorias principais:
-
-Masculino
-Feminino
 
 A navegação entre as categorias é realizada através de abas.
 
-👕 Categorias masculinas
-
-O catálogo masculino utiliza as seguintes categorias da API:
-
-mens-shirts
-mens-shoes
-mens-watches
-👗 Categorias femininas
-
-O catálogo feminino utiliza as seguintes categorias:
-
-womens-bags
-womens-dresses
-womens-jewellery
-womens-shoes
-womens-watches
 🔎 Detalhes do produto
 
 Ao selecionar um produto, o usuário é direcionado para uma tela de detalhes.
@@ -204,23 +184,8 @@ Renderização de listas;
 Tratamento de loading;
 Tratamento de erros;
 Organização de projetos React Native;
-Responsividade e estilização para dispositivos móveis.
-📸 Capturas de tela
-Tela de Login
+Responsividade e estilização para dispositivos móveis
 
-Adicione aqui o print da tela de login.
-
-Catálogo — Masculino
-
-Adicione aqui o print da aba masculina.
-
-Catálogo — Feminino
-
-Adicione aqui o print da aba feminina.
-
-Detalhes do produto
-
-Adicione aqui o print da tela de detalhes.
 
 ▶️ Como executar o projeto
 Pré-requisitos
@@ -231,28 +196,6 @@ Node.js;
 npm ou Bun;
 Expo CLI ou utilizar o Expo através do projeto;
 Expo Go em um dispositivo físico, caso queira executar pelo celular.
-1. Clone o repositório
-git clone https://github.com/williamjayjay/ecommerce-nike-stripe-redux-react-native.git
-
-2. Acesse a pasta do projeto
-cd ecommerce-nike-stripe-redux-react-native
-
-3. Instale as dependências
-
-Com npm:
-
-npm install
-
-
-ou utilizando Bun:
-
-bun install
-
-4. Inicie o projeto
-npx expo start
-
-
-Após iniciar o Expo, é possível executar a aplicação através do Expo Go, em um dispositivo físico, ou através de um emulador Android/iOS configurado.
 
 📚 Fontes de pesquisa
 
