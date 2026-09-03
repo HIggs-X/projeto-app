@@ -275,19 +275,7 @@ A navegação entre as telas também foi importante para criar um fluxo intuitiv
 
 👨‍💻 Autor
 
-William
+Rodrigo
 
 Projeto desenvolvido para a disciplina de Mobile Development.
 
-📄 Entregáveis
-
-Este projeto faz parte de uma atividade acadêmica composta pelos seguintes entregáveis:
-
-🎥 Vídeo Pitch de apresentação;
-📄 PDF com reflexão contextual;
-📱 Projeto mobile desenvolvido com React Native e Expo;
-📑 README com documentação do projeto;
-📸 PDF com capturas de tela e explicação das funcionalidades.
-📌 Observação
-
-O projeto foi desenvolvido com foco na aplicação dos conceitos de desenvolvimento mobile apresentados durante a disciplina, priorizando organização do código, componentização, navegação, consumo de API e gerenciamento de estado.
